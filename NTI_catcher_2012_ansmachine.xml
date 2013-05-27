@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <callxml version="3.0">
-<!-- this change is from branche master -->
 <assign var="setAppFileName" value="NTI_catcher_2012_ansmachine.xml"/>
 <assign var="currentCalledID" value="$session.callerID;"/>
 <assign var="CallLogPrefix" value="~~~~~~$setAppFileName;_$currentCalledID; "/> 
