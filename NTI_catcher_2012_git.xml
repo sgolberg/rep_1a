@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <callxml version="3.0">
+<!-- Catcher -->
 <assign var="setAppFileName" value="NTI_catcher_2012_git"/>
 <assign var="currentCalledID" value="$session.callerID;"/>
 <assign var="CallLogPrefix" value="~~~~~~$setAppFileName;_$currentCalledID; "/> 
